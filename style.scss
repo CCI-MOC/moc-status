@@ -14,11 +14,11 @@
 /**************/
 
 html {
-  font-size: 100%;
+  font-size: 00%;
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -71,7 +71,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -242,8 +242,8 @@ nav {
 //
 
 .post-info {
-	font-size: 14px;
-	font-style: italic;
+  font-size: 14px;
+  font-style: italic;
 }
 
 .posts > .post {
@@ -276,14 +276,10 @@ nav {
   }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
+footer {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
-}
-
-footer {
+  font-size: 15px;
   padding: 20px 0;
   text-align: center;
 }
