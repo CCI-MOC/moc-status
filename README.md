@@ -22,3 +22,19 @@ To:
 ```
 tags: resolved
 ```
+
+## Building the site locally
+
+Build the container image:
+
+```
+podman build -t pages .
+```
+
+Serve the site:
+
+```
+podman run --rm --userns keep-id -v $PWD:/pages -p 4000:4000 pages
+```
+
+Visit https://localhost:4000 in your browser.
