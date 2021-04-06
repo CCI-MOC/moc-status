@@ -9,6 +9,10 @@ layout: default
     <article class="post">
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
+      <div class="post-info">
+        Posted {{ post.date | date: "%Y-%m-%d" }}
+      </div>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>
