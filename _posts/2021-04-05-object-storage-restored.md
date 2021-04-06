@@ -2,6 +2,7 @@
 title: Object storage service restored
 layout: post
 tags: active
+date: 2021-04-05 09:00
 ---
 
 We have repaired the Ceph clusters that impacted the OpenStack
