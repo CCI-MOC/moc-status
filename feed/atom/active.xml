@@ -1,0 +1,22 @@
+---
+layout: none
+---
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>{{ site.title | xml_escape }} (Active entries)</title>
+ <id>{{site.url}}/</id>
+ <updated>{{site.time | date_to_xmlschema}}</updated>
+ <link href="{{site.url}}" rel="self"/>
+ 
+ {% assign posts = site.posts | where: "tags", "active" %}
+ {% for post in posts %}
+ <entry>
+   <title>{{post.title}}</title>
+   <id>{{ site.url}}{{post.url}}</id>
+   <link rel="alternate" type="text/html" href="{{ site.url}}{{post.url}}" />
+   <updated>{{post.date | date_to_xmlschema}}</updated>
+   <content type="html">{{post.excerpt | xml_escape}}</content>
+ </entry>
+ {% endfor %}
+
+</feed>
