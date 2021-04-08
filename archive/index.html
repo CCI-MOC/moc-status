@@ -1,0 +1,13 @@
+---
+layout: default
+title: Archive
+---
+
+<h2>All status updates</h2>
+<div class="posts">
+  {% for post in site.posts %}
+    <ul>
+      <li>[{{ post.date | date: "%Y-%m-%d" }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>{% if post.state == 'active' %} 🔥{% endif %}</li>
+  </ul>
+  {% endfor %}
+</div>
