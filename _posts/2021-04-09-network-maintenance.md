@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Services offline due to network maintenance
-state: active
 severity: 2
+date: 2021-04-09 09:00
 ---
 
 K-Openshift and Kaizen Openstack will not be available between 1pm and
