@@ -4,7 +4,7 @@ title: Home
 ---
 
 {% assign active = site.posts | where_exp: "item", "item.state == 'active'" %}
-{% assign inactive = site.posts | where_exp: "item", "item.state != 'active'" %}
+{% assign inactive = site.posts | where_exp: "item", "item.state == nil" %}
 
 {% assign severity = 0 %}
 {% for post in active %}
