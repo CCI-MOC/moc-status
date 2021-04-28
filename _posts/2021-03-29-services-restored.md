@@ -1,6 +1,5 @@
 ---
 title: MOC services restored
-layout: post
 ---
 
 MOC services impacted by the power outage have been restored and we

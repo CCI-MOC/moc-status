@@ -1,6 +1,5 @@
 ---
 title: mail.massopen.cloud service interruption
-layout: post
 ---
 
 We are experiencing a problem with mail.massopen.cloud which affects account signups, adding members to existing OpenStack projects, and receiving mail from our support system.

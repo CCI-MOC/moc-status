@@ -1,6 +1,5 @@
 ---
 title: Problems accessing AWS-hosted services
-layout: post
 state: active
 severity: 1
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Services offline due to network maintenance
 severity: 2
 date: 2021-04-09 09:00

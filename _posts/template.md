@@ -1,6 +1,7 @@
 ---
 title: Put title here
 state: active
+severity: 1
 
 # Prevent template from getting published. Remove this
 # line when copying the template.
@@ -20,8 +21,7 @@ Creating a new status entry:
 2. Remove `published: false`.
 
 3. Optionally set a `severity`. By default, posts have a severity of 1
-   (mild). You can also select 0 (low) or 2 (critical). Edit the
-   frontmatter to include a line like `severity: 2`.
+   (mild). You can also select 0 (low) or 2 (critical).
 
 4. Save this as _posts/YYYY-MM-DD-short-title.md.
 

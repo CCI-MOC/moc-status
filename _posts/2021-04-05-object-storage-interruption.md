@@ -1,9 +1,6 @@
 ---
 title: Object storage service interruption
-layout: post
 date: 2021-04-05 09:00
-state: active
-severity: 1
 ---
 
 We have repaired the Ceph storage issues that impacted the OpenStack

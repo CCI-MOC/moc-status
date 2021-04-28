@@ -1,6 +1,5 @@
 ---
 title: Kaizen OpenStack SSL certificate update
-state: active
 ---
 
 We are performing some routine maintenance on the Kaizen cluster

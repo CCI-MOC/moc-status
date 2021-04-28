@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Upcoming network maintenance 2021-04-09
 date: 2021-04-05 12:00
 severity: 0

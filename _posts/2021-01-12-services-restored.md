@@ -1,6 +1,5 @@
 ---
 title: Services restored
-layout: post
 date: 2021-01-12 13:20:00
 ---
 

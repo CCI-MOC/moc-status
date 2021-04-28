@@ -1,6 +1,5 @@
 ---
 title: Data center power outage
-layout: post
 ---
 
 There was a power outage at the MOC data center today which affects

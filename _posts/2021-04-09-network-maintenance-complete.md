@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Network maintenance completed successfully
 severity: 0
 date: 2021-04-09 14:00

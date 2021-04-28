@@ -1,6 +1,5 @@
 ---
 title: Object storage service offline
-layout: post
 ---
 
 The power outage on 2021-03-29 led to an  object storage service
