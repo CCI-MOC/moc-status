@@ -1,10 +1,10 @@
 ---
-title: May 11, 2021 3pm Power 9 Switch Update
+title: Power 9 Switch Update (Rescheduled for May 12)
 state: active
 severity: 1
 ---
 
-We plan to upgrade the power 9 cluster switch today at 3pm, this will prevent access to the Power 9 cluster until the upgrade is complete.
+We plan to upgrade the Power 9 cluster switch today. This will prevent access to the Power 9 cluster until the upgrade is complete. We will post an update when the Power 9 cluster is available.
 
 Details: IBM support has requested that we update the firmware in the switch which controls the power 9 systems as part of troubleshooting problems with several machines in the power cluster. 
 
