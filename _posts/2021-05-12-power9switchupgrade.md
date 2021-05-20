@@ -1,6 +1,5 @@
 ---
 title: Power 9 Switch Update (Rescheduled for May 12)
-state: active
 severity: 1
 ---
 
