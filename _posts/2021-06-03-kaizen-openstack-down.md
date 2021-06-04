@@ -1,6 +1,5 @@
 ---
 title: Kaizen Openstack networking is disrupted
-state: active
 severity: 2
 ---
 
