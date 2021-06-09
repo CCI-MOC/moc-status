@@ -1,6 +1,5 @@
 ---
 title: Kaizen networking issues have been resolved
-state: active
 severity: 0
 ---
 
