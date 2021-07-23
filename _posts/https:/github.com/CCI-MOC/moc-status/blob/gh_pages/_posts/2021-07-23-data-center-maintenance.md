@@ -8,8 +8,7 @@ severity: 1
 # line when copying the template.
 # published: false
 ---
-Due to a scheduled power outage at the MGHPCC data center, MOC services will be unavailable from Monday, August 9, 2021 at 9AM through Thursday, August 12, 2021 at 5PM.
-
+Due to a scheduled power outage at the MGHPCC data center, MOC services will be unavailable from Monday, August 9, 2021 at 9AM through Thursday, August 12, 2021 at 5PM.  This is buffered before and after the power actual power outage to allow MOC maintenance. 
  
 
 Please shut down your virtual machines, containers, and any bare metal systems by 9 AM on Monday, August 9, so that the Mass Open Cloud team may begin preparing for the outage. If you do not shut them down yourself, you run the risk of losing data.
