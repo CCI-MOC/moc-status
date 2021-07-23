@@ -1,7 +1,7 @@
 ---
 title: Data Center Annual Maintenance Scheduled Aug 9-12,2021
 state: active
-severity: 2
+severity: 1
 
 
 # Prevent template from getting published. Remove this
