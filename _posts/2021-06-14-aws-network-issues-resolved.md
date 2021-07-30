@@ -1,6 +1,5 @@
 ---
 title: AWS access issues resolved
-state: active
 severity: 0
 ---
 
