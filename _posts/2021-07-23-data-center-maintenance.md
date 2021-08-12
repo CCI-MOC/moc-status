@@ -1,6 +1,5 @@
 ---
 title: Data Center Annual Maintenance Scheduled Aug 9-12,2021
-state: active
 severity: 2
 ---
 Due to a scheduled power outage at the MGHPCC data center, MOC services will be unavailable from Monday, August 9, 2021 at 9AM through Thursday, August 12, 2021 at 5PM.  This is buffered before and after the power actual power outage to allow MOC maintenance. 
