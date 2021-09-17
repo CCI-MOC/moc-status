@@ -1,7 +1,8 @@
 ---
 title: Kaizen OpenStack is offline
 state: active
-severity: 2
+severity: 1
+date: 2021-09-17 12:08:39 -04:00
 ---
 
 The Kaizen OpenStack environment is offline due to a controller
