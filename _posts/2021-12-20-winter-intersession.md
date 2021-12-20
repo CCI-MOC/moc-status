@@ -3,7 +3,4 @@ title: University Intersession 12/22/21 - 1/3/22
 state: active
 severity: 1
 ---
-The MOC staff will be out of the office for the winter intersession from 5pm December 21, 2021 until January 3, 2022.
-
-Our ability to address issues before January 3, 2022 will be limited.  If you have any issues please open a support 
-ticket at https://support.massopen.cloud.  
+The MOC is running without any service interruptions. Please note, however, that the MOC will not be staffed as usual from the end of the day on December 21, 2021 – January 3, 2022. Please submit a ticket for support at support.massopen.cloud, but anticipate a delay in  response.
