@@ -1,6 +1,5 @@
 ---
 title: MOC Services Available for Use
-state: active
 severity: 0
 ---
 The Mass Open Cloud services are available for use with two exceptions:
