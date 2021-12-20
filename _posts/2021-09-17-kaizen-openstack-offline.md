@@ -1,6 +1,5 @@
 ---
 title: Kaizen OpenStack is offline
-state: active
 severity: 1
 date: 2021-09-17 12:08:39 -04:00
 ---
