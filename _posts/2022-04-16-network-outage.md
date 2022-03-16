@@ -1,6 +1,6 @@
 ---
 title: MOC data center network outage, resolved
-
+state: active
 # Prevent template from getting published. Remove this
 # line when copying the template.
 # published: false
