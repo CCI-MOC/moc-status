@@ -1,6 +1,5 @@
 ---
 title: MOC data center network outage, resolved
-state: inactive
 severity: 0
 # Prevent template from getting published. Remove this
 # line when copying the template.
