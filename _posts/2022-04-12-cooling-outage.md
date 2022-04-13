@@ -1,7 +1,7 @@
 ---
 title: Elevated temperature in the MGHPCC Computer Room
 state: active
-severity: 2
+severity: 1
 ---
 
 We are experiencing a cooling related outage at the MGHPCC data center. Most
