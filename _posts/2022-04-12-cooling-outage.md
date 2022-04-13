@@ -1,6 +1,6 @@
 ---
 title: Elevated temperature in the MGHPCC Computer Room
-state: active
+state: inactive
 severity: 1
 ---
 
