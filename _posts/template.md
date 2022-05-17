@@ -1,7 +1,10 @@
 ---
 title: Put title here
 state: active
-severity: 1
+# Severity: 0=All systems are operating normally.
+# 1 = There are one or more service interruptions.
+# 3 or more = There is a critical service outage.
+severity: 0
 
 # Prevent template from getting published. Remove this
 # line when copying the template.
