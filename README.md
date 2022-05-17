@@ -7,12 +7,20 @@
 
 - Ensure the frontmatter includes `state: active`.
 
+- Set the `severity:` based on the table below.
+
+| Severity | Output |
+| -- | -- |
+| 0 | All systems are operating normally. |
+| 1 | There are one or more service interruptions. |
+| 2 | There is a critical service outage. |
+
 - Commit and push your changes.
 
 ## To resolve a status entry
 
 To mark a status entry as "resolved" (which will remove it from the
-"Current status" section), edit the file in the `_posts` directive and
+"Current status" section), edit the file in the `_posts` directory and
 remove the `state: active` setting.
 
 ## Building the site locally
