@@ -1,7 +1,7 @@
 ---
 title: Data Center Annual Maintenance Scheduled May 23-26, 2022
 state: active
-severity: 0
+severity: 2
 ---
 
 Due to a scheduled power outage at the MGHPCC data center, MOC services will be
