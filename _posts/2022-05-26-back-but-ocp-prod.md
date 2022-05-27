@@ -1,11 +1,10 @@
 ---
 title: MOC Services Available for Use Except ocp-prod Cluster
-state: active
-severity: 1
+severity: 0
 ---
 
 The Mass Open Cloud services are available for use with one exception:
-We are working on getting the ocp-prod cluster back up. We currently do not
+- We are working on getting the ocp-prod cluster back up. We currently do not
 have a time frame. We will update this page as we gather more information.
 
 Thank you for your patience. This annual power-down helps MGHPCC to perform
