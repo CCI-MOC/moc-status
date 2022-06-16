@@ -1,6 +1,5 @@
 ---
 title: Performance Volume and/or OpenShift Backup Reminder
-state: active
 severity: 0
 ---
 
