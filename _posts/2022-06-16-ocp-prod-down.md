@@ -4,9 +4,11 @@ state: active
 severity: 1
 ---
 
-The `ocp-prod` OpenShift cluster is currently down. We are investigating
-the root cause. We will provide updates here as soon as we have more
-information.
+There has been an interruption on the `ocp-prod` OpenShift cluster.
+We expect services to be substantially restored by, 6:30 PM EST. At
+this time you should be able to access your OpenShift projects. We are
+investigating the root cause. We will provide updates here as we have
+more information.
 
 Thanks
 MOC Staff
