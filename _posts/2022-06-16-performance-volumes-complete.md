@@ -1,6 +1,5 @@
 ---
 title: Performance Volume Maintenance Complete
-state: active
 severity: 0
 ---
 
