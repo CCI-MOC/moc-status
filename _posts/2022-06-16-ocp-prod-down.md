@@ -1,6 +1,5 @@
 ---
 title: Ocp-Prod Interruption
-state: active
 severity: 0
 ---
 
