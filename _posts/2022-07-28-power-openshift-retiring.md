@@ -1,5 +1,5 @@
 ---
-title: MOC Power 9 OpenShift retiring
+title: MOC Power 9 OpenShift retiring August 4th, 2022
 state: active
 severity: 0
 ---
