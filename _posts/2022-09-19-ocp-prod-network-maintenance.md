@@ -1,6 +1,6 @@
 ---
 title: ocp-prod Cluster Network Maintenance
-severity: 0
+severity: 1
 state: active
 ---
 
