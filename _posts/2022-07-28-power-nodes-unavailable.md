@@ -1,6 +1,5 @@
 ---
 title: Power 9 Nodes maintenance 7/29/2022
-state: active
 severity: 1
 ---
 
