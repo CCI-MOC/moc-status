@@ -1,7 +1,6 @@
 ---
 title: ocp-prod Cluster Network Maintenance
 severity: 1
-state: active
 ---
 
 September 27th & 28th the ocp-prod (OpenShift 4.x cluster) will be offline due
