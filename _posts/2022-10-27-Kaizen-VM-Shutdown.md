@@ -26,8 +26,8 @@ emails please do so immediately.
 If you missed the previous communications about relocating your projects
 and wish to do so, please fill out this user survey immediately so we can
 begin your process as quickly as possible.
-If you have questions please open a ticket at If you have questions, please
-open a ticket at https://mghpcc.supportsystem.com/ or email
+
+If you have questions please open a ticket at https://mghpcc.supportsystem.com/ or email
 help@nerc.mghpcc.org.
 
 Thanks
