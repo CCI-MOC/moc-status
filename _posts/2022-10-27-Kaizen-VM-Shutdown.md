@@ -4,7 +4,9 @@ state: active
 severity: 1
 ---
 
-On October 27th the Kaizen VMs will be shut down.
+On October 27th, as of 5:30 pm the Kaizen VM's have been shut down. VM's in 
+the process of migrating to the NERC should not be affected by this shut down. 
+Please see details below about opening a ticket if you feel your VM has been shutdown prematurely.
 
 We launched the Mass Open Cloud (MOC) with a vision of creating a production
 cloud that would enable innovation by a broad industry and research community.
