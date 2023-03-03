@@ -1,6 +1,5 @@
 ---
 title: Kaizen VM Shutdown
-state: active
 severity: 1
 ---
 
