@@ -4,7 +4,7 @@ state: active
 severity: 0
 ---
 
-Due to a scheduled power outage at the MGHPCC data center, MOC services will be unavailable from Tuesday, June 5th, 2023 at 6 PM through Friday, June 12th, 2023 at 12 AM.
+Due to the annually scheduled maintenance power outage at the MGHPCC data center, MOC services will be unavailable from Tuesday, June 5th, 2023 at 6 PM through Friday, June 12th, 2023 at 12 AM.
 
 Please shut down your virtual machines, containers, and any bare metal systems by 6 PM on Monday, June 5th, so that the Mass Open Cloud team may begin preparing for the outage. If you do not shut them down yourself, you run the risk of losing data.
 
