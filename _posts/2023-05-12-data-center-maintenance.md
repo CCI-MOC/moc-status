@@ -1,7 +1,7 @@
 ---
 title: Data Center Annual Maintenance Scheduled June 5-12, 2023
 state: active
-severity: 0
+severity: 1
 ---
 
 Due to the annual scheduled maintenance power outage at the MGHPCC
