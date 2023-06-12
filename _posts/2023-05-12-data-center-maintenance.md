@@ -1,6 +1,5 @@
 ---
 title: Data Center Annual Maintenance Scheduled June 5-12, 2023
-state: active
 severity: 1
 ---
 
