@@ -1,6 +1,5 @@
 ---
 title: Outgoing Support Email Change
-state: active
 severity: 0
 ---
 The old support email address osticket@massopen.cloud has been replaced with
