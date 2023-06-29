@@ -12,6 +12,8 @@ Please be aware of the following outages:
 1. NEU Cache Servers
 1. SSO service, this means you will be unable to authenticate
 1. Kaizen HIL/BMI service
+   1. If your system is booted using BMI it will need to be
+   powered off because the iSCSI servers will be powered off and moved.
 1. ESI development servers will be cut off (kumo environment)
 1. Research Ceph Cluster
 
