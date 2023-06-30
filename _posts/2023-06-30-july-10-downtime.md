@@ -1,10 +1,10 @@
 ---
-title: Downtime July 10th, 2023
+title: Downtime July 10th - 11th, 2023
 state: active
 severity: 0
 ---
 
-We will be performing upgrades to some of our hardware. Much of our
+We will be performing upgrades to some of our hardware. Most of our
 services will be down for a large part of July 10th, 2023. This upgrade
 has the potential of extending to the 11th.
 
@@ -14,12 +14,14 @@ status post.
 Please be aware of the following outages:
 
 1. NEU Cache Servers
-2. SSO service, this means you will be unable to authenticate
-3. Kaizen HIL/BMI service
+1. SSO service, this means you will be unable to authenticate
+1. Kaizen HIL/BMI service
    1. If your system is booted using BMI it will need to be
    powered off because the iSCSI servers will be powered off and moved.
-4. ESI development servers will be cut off (kumo environment)
-5. Research Ceph Cluster
+1. ESI development servers will be cut off (kumo environment)
+1. ESI production servers
+1. Research Ceph Cluster
+1. Due to Network interdependencies other systems may also be unreachable
 
 Once services are back online, you will be responsible for restarting
 any containers or other systems.
