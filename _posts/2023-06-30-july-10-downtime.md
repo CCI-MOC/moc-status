@@ -5,20 +5,21 @@ severity: 0
 ---
 
 We will be performing upgrades to some of our hardware. Much of our
-services will be down for a large part of July 10th, 2023.
+services will be down for a large part of July 10th, 2023. This upgrade
+has the potential of extending to the 11th.
+
+We will notify you when MOC services are available by updating this
+status post.
 
 Please be aware of the following outages:
 
 1. NEU Cache Servers
-1. SSO service, this means you will be unable to authenticate
-1. Kaizen HIL/BMI service
+2. SSO service, this means you will be unable to authenticate
+3. Kaizen HIL/BMI service
    1. If your system is booted using BMI it will need to be
    powered off because the iSCSI servers will be powered off and moved.
-1. ESI development servers will be cut off (kumo environment)
-1. Research Ceph Cluster
-
-We will notify you when MOC services are available by updating the
-MOC status [website][status].
+4. ESI development servers will be cut off (kumo environment)
+5. Research Ceph Cluster
 
 Once services are back online, you will be responsible for restarting
 any containers or other systems.
@@ -32,4 +33,3 @@ As always, if you have questions, open a [support ticket][ticket].
 The ticketing system will be available throughout the outage.
 
 [ticket]: https://support.massopen.cloud
-[status]: https://status.massopen.cloud/
