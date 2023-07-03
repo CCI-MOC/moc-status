@@ -1,7 +1,7 @@
 ---
 title: Downtime July 10th - 11th, 2023
 state: active
-severity: 0
+severity: 1
 ---
 
 We will be performing upgrades to some of our hardware. Most of our
