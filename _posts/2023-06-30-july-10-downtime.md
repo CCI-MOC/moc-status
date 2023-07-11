@@ -1,12 +1,12 @@
 ---
-title: Downtime July 10th - 11th, 2023
+title: Downtime July 10th - 12th, 2023
 state: active
 severity: 1
 ---
 
 We will be performing upgrades to some of our hardware. Most of our
 services will be down for a large part of July 10th, 2023. This upgrade
-has the potential of extending to the 11th.
+has the potential of extending to the 12th.
 
 We will notify you when MOC services are available by updating this
 status post.
