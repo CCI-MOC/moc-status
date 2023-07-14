@@ -1,12 +1,13 @@
 ---
 title: Extended Downtime July 10th - 14th, 2023
 state: active
-severity: 1
+severity: 0
 ---
 
 We will be performing upgrades to some of our hardware. Most of our
 services will be down for a large part of July 10th, 2023. This upgrade
-has the potential of extending to the 14th.
+has the potential of extending to the 14th.  All of the main services are
+back up. This post will remain active until the NEU Cache servers are up.
 
 We will notify you when MOC services are available by updating this
 status post.
@@ -17,11 +18,10 @@ Please be aware of the following outages:
    1. SSO service, this means you will be unable to authenticate
    2. ESI production servers
    3. ESI development servers
-2. Still Down
-   1. iSCSI servers
-3. Down until a new home is found
+   4. iSCSI servers
+2. Down until a new home is found
    1. NEU Cache Servers
-4. Decommissioned
+3. Decommissioned
    1. Kaizen HIL/BMI service
    2. Research Ceph Cluster
 
