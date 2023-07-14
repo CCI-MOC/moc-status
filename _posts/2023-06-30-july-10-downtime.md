@@ -1,12 +1,13 @@
 ---
 title: Extended Downtime July 10th - 14th, 2023
 state: active
-severity: 2
+severity: 0
 ---
 
 We will be performing upgrades to some of our hardware. Most of our
 services will be down for a large part of July 10th, 2023. This upgrade
-has the potential of extending to the 14th.  All of the main services are back up. This post will remain active until the NEU Cache servers are up.
+has the potential of extending to the 14th.  All of the main services are
+back up. This post will remain active until the NEU Cache servers are up.
 
 We will notify you when MOC services are available by updating this
 status post.
