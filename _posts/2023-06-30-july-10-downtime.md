@@ -16,11 +16,12 @@ Please be aware of the following outages:
 1. Back up
    1. SSO service, this means you will be unable to authenticate
    2. ESI production servers
+   3. ESI development servers
 2. Still Down
+   1. iSCSI servers
+3. Down until a new home is found
    1. NEU Cache Servers
-   2. iSCSI servers will be powered off and moved
-   3. ESI development servers will be cut off (kumo environment)
-3. Decommissioned
+4. Decommissioned
    1. Kaizen HIL/BMI service
    2. Research Ceph Cluster
 
