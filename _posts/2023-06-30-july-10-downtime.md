@@ -1,7 +1,7 @@
 ---
 title: Extended Downtime July 10th - 14th, 2023
 state: active
-severity: 1
+severity: 2
 ---
 
 We will be performing upgrades to some of our hardware. Most of our
@@ -17,11 +17,10 @@ Please be aware of the following outages:
    1. SSO service, this means you will be unable to authenticate
    2. ESI production servers
    3. ESI development servers
-2. Still Down
-   1. iSCSI servers
-3. Down until a new home is found
+   4. iSCSI servers
+2. Down until a new home is found
    1. NEU Cache Servers
-4. Decommissioned
+3. Decommissioned
    1. Kaizen HIL/BMI service
    2. Research Ceph Cluster
 
