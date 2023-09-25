@@ -1,6 +1,5 @@
 ---
 title: OpenShift Cluster Update Schedule
-state: active
 severity: 0
 ---
 OpenShift cluster `ocp-prod` will now be updated every first and third Monday of every month at 10:00 AM.
