@@ -1,6 +1,5 @@
 ---
 title: Extended Downtime July 10th - 14th, 2023
-state: active
 severity: 0
 ---
 
