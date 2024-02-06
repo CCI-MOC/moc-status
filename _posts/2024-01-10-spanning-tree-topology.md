@@ -1,6 +1,5 @@
 ---
 title: February 5th ESI Network Downtime
-state: active
 severity: 1
 
 ---
