@@ -1,6 +1,5 @@
 ---
 title: Changes to CSAIL network on July 15, 2024 may affect ESI and MAAS users
-state: active
 severity: 1
 ---
 
